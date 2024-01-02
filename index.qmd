@@ -1,0 +1,52 @@
+---
+title: "Introduction to Natural Language Processing with Applications to Clinical Data Science"
+subtitle: "University of Utah"
+---
+
+[![](DELPHI-long.png)](https://uofuhealth.utah.edu/delphi-data-science-initiative)
+
+
+::: {.callout-note appearance="simple" icon=false}
+**Date**: March 8th, 2024
+
+**Time**: 9:00 am -- 4:00 pm MDT
+
+**Location**: EHSEB 4100B
+
+**Instructors**: Alec Chapman, Kelly Peterson
+:::
+
+**Registration**: Use the [following link](https://docs.google.com/forms/d/e/1FAIpQLScILeDCW5LTwMH2FXYEm7Ix9715aFMc8HTaeKl9fC0F7UPMvg/viewform?pli=1) to sign up for this workshop.
+
+[**Sign up for the DELPHI mailing list**](https://www.lists.utah.edu/wws/subscribe/delphi?previous_action=info) to stay in the loop about future workshops and funding opportunities.
+
+## General Information
+
+**What**: This workshop will introduce methods for using natural language processing (NLP) to extract information from unstructured text data. There will be a primary focus on applications to clinical text and electronic health record notes, but the methods we learn could be applied to other domains.
+
+**Who**: The course is aimed at graduate students, postdocs, faculty, and other researchers across campus who are interested in learning how to use NLP for data analysis. 
+
+**Requirements**: Participants must bring a laptop on which they can access the internet via a web browser. We will be using [Google Colab notebooks](https://colab.google/) throughout this workshop. This workshop will use Python, and students are expected to have an introductory level of Python. If you do not have Python knowledge, we strongly recommend registering for our [Introduction to Data Analysis in Python workshop](https://docs.google.com/forms/d/e/1FAIpQLScILeDCW5LTwMH2FXYEm7Ix9715aFMc8HTaeKl9fC0F7UPMvg/viewform?pli=1) or completing our virtual short course on Python (in development). 
+
+**Contact**: Please email penny.atkins@hsc.utah.edu or alec.chapman@hsc.utah.edu for more information.
+
+## Schedule
+
+
+| Time     | Topic           |
+| -------------:|:-------------|
+| 9:00 am     | Introduction and Setup |
+| 9:30 am    | NLP Foundations and use case |
+| 10:00 am   | Working with text in Python |
+| 10:30 am   | Morning Break |
+| 11:00 am   | Rule-based NLP and medspaCy |
+| 11:30 am   | Developing rule-based system |
+| 12:00 pm   | Lunch |
+| 1:00 pm   | System evaluation |
+| 1:45 pm   | Introduction to machine learning NLP |
+| 2:15 pm   | Large language models (LLMs) |
+| 2:30 pm   | Afternoon Break |
+| 3:00 pm   | Integrating LLMs into NLP pipelines |
+| 3:30 pm   | Final system evaluation |
+| 4:00 pm   | End |
+

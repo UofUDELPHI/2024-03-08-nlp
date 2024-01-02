@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Introduction to Natural Language Processing with Applications to Clinical Data Science"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+        
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+
