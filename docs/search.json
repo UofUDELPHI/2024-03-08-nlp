@@ -18,6 +18,6 @@
     "href": "index.html#schedule",
     "title": "Introduction to Natural Language Processing with Applications to Clinical Data Science",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nTopic\nNotebook\nNotebook (complete)\n\n\n\n\n9:00 am\nIntroduction and Setup\n\n\n\n\n9:30 am\nWorking with text in Python\n\n\n\n\n10:00 am\nRegular expressions\n\n\n\n\n10:30 am\nMorning Break\n\n\n\n\n10:45 am\nRule-based NLP and medspaCy\n\n\n\n\n11:30 am\nAttribute Detection\n\n\n\n\n12:00 pm\nLunch\n\n\n\n\n1:00 pm\nSystem development and evaluation\n\n\n\n\n1:45 pm\nIntroduction to machine learning NLP\n\n\n\n\n2:15 pm\nLarge language models (LLMs)\n\n\n\n\n2:30 pm\nAfternoon Break\n\n\n\n\n2:45 pm\nIntegrating LLMs into NLP pipelines\n\n\n\n\n3:30 pm\nFinal system evaluation\n\n\n\n\n4:00 pm\nEnd"
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nTopic\nNotebook\nNotebook (complete)\n\n\n\n\n9:00 am\nIntroduction and Setup\n\n\n\n\n9:30 am\nWorking with text in Python\n\n\n\n\n10:00 am\nRegular expressions\n\n\n\n\n10:30 am\nMorning Break\n\n\n\n\n10:45 am\nRule-based NLP and medspaCy\n\n\n\n\n11:30 am\nAttribute Detection\n\n\n\n\n12:00 pm\nLunch\n\n\n\n\n1:00 pm\nSystem development and evaluation\n\n\n\n\n1:45 pm\nIntroduction to machine learning NLP\n\n\n\n\n2:00 pm\nPre-training a LLM from scratch\n\n\n\n\n2:30 pm\nAfternoon Break\n\n\n\n\n2:45 pm\nFine-tuning a LLM for classification\n\n\n\n\n3:30 pm\nWrap-Up and Resources\n\n\n\n\n4:00 pm\nEnd"
   }
 ]

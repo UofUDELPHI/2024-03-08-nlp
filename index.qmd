@@ -32,7 +32,7 @@ subtitle: "University of Utah"
 ## Schedule
 
 |     Time | Topic                                | Notebook | Notebook (complete) |
-|---------:|:-------------------------------------|:---------|---------------------|
+|-------------:|:-----------------------------|:-------------|---------------|
 |  9:00 am | Introduction and Setup               |          |                     |
 |  9:30 am | Working with text in Python          |          |                     |
 | 10:00 am | Regular expressions                  |          |                     |
@@ -42,8 +42,8 @@ subtitle: "University of Utah"
 | 12:00 pm | Lunch                                |          |                     |
 |  1:00 pm | System development and evaluation    |          |                     |
 |  1:45 pm | Introduction to machine learning NLP |          |                     |
-|  2:15 pm | Large language models (LLMs)         |          |                     |
+|  2:00 pm | Pre-training a LLM from scratch      |          |                     |
 |  2:30 pm | Afternoon Break                      |          |                     |
-|  2:45 pm | Integrating LLMs into NLP pipelines  |          |                     |
-|  3:30 pm | Final system evaluation              |          |                     |
+|  2:45 pm | Fine-tuning a LLM for classification |          |                     |
+|  3:30 pm | Wrap-Up and Resources                |          |                     |
 |  4:00 pm | End                                  |          |                     |
